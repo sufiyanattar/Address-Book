@@ -33,7 +33,3 @@ Here is the list of requirements that your address book should be in a position 
 ### Save the address book.
 ### Exit the application.
 
-# Screenshots
-Fig: Delete Contact with the help of Name
-
-![ab_ss21](https://github.com/sufiyanattar/Address-Book/assets/109298044/a993f530-845e-42a2-ae9a-acbe4d12eaa3)
